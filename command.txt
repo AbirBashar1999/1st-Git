@@ -1,0 +1,14 @@
+echo "# 1st-Git" >> README.md
+
+# 1. one time each project to start git
+git init
+
+# 2. Every time to add something
+git add .
+
+# 3. Every time you commit
+git commit -m "first commit"
+
+git branch -M main
+git remote add origin https://github.com/AbirBashar1999/1st-Git.git
+git push -u origin main0
